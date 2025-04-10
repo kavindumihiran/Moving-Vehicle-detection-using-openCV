@@ -1,5 +1,3 @@
-# 🚶‍♂️Moving-Vehicle-detection-using-openCV
-
 This code demonstrate how to detect moving objects in a video a **static survailance camera** using only classical computer vision techniques. This system is capable of identifying motion, removing shadows, and drawing bounding boxes around moving vehicles. 
 
 ## 📌 Introduction
