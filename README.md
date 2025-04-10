@@ -43,7 +43,7 @@ python motionDetection.py
 ```
 
 ## 📸 Example Output
-A bounding box is drawn around each moving object:
+A video feed with bounding boxes drawn around each moving object:
 
 
 
